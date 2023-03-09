@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Simple-React-Weather/static/css/main.15bc5a52.css",
+    "main.js": "/Simple-React-Weather/static/js/main.6c4b0751.js",
+    "static/media/sunset.jpg": "/Simple-React-Weather/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/Simple-React-Weather/index.html",
+    "main.15bc5a52.css.map": "/Simple-React-Weather/static/css/main.15bc5a52.css.map",
+    "main.6c4b0751.js.map": "/Simple-React-Weather/static/js/main.6c4b0751.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15bc5a52.css",
+    "static/js/main.6c4b0751.js"
+  ]
+}
